@@ -51,7 +51,7 @@ When prompted, select your network interface
 
 🔹 FILE STRUCTURE
     ├── main.py                # Main IDS script
-    ├── icmp_ids_banner.py     # ASCII startup banner
+    ├── IDS_banner.py     # ASCII startup banner
 
 
 🔹 EXAMPLE OUTPUT
