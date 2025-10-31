@@ -41,10 +41,6 @@ Make sure you have the following installed:
     • Root privileges (sudo)
     • Python libraries from requirements.txt
 
-Install them using:
-    pip install -r requirements.txt
-
-
 🔹 RUNNING THE PROGRAM
 Run this script as root:
     sudo python3 main.py
