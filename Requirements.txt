@@ -1,0 +1,9 @@
+# Python dependencies
+# (Your code currently uses only built-in Python libraries)
+
+# System dependencies (must be installed separately)
+# Suricata - Intrusion Detection Engine
+# TShark - Network packet analyzer (part of Wireshark suite)
+
+# To install them on Debian/Ubuntu/Kali:
+# sudo apt install suricata tshark
